@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ringkasan Penjualan</name>
+   <tag></tag>
+   <elementGuidId>9348e84e-b336-4df6-bc9d-429a000e63e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.div-card-subtitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c339a08-84d3-4e44-b9b4-552f20a9f220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-card-subtitle</value>
+      <webElementGuid>0acad28c-5571-48e8-abde-949f95a701a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ringkasan Penjualan</value>
+      <webElementGuid>4f6a22bb-a240-4512-95c5-4e3c572d9424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]/div[@class=&quot;div-card-subtitle&quot;]</value>
+      <webElementGuid>d53ad064-7834-4b96-8da7-d8c28cf610bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div/div</value>
+      <webElementGuid>4493a1c1-694a-4508-a9f1-57ca751f3bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lain'])[1]/following::div[51]</value>
+      <webElementGuid>e171340c-3ec5-4139-b98d-4292369a8e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Produk'])[2]/following::div[53]</value>
+      <webElementGuid>b6630655-2ff9-4e7e-a987-9059d9625562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[1]/preceding::div[2]</value>
+      <webElementGuid>6cf8c6c3-f409-45a0-98b6-412d67b7e0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div</value>
+      <webElementGuid>b9199ecd-4b37-4b57-98fd-1ce4e715d6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ringkasan Penjualan' or . = 'Ringkasan Penjualan')]</value>
+      <webElementGuid>63a88502-e275-4692-956d-8deaf410067f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

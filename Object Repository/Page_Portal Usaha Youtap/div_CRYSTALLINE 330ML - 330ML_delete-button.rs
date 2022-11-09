@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CRYSTALLINE 330ML - 330ML_delete-button</name>
+   <tag></tag>
+   <elementGuidId>8f669749-8577-4615-91b0-1658146fa43a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.delete-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>240a4ba5-4522-409e-ba27-fd672bb31344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>delete-button</value>
+      <webElementGuid>aa83e99d-af88-4d7c-8e64-56636467fabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Cart&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;cart-container&quot;]/div[@class=&quot;CartSupplier&quot;]/div[@class=&quot;container-box d-flex flex-row&quot;]/div[@class=&quot;list-cart&quot;]/div[@class=&quot;ProductCart d-flex flex-row&quot;]/div[@class=&quot;container-product d-flex flex-row&quot;]/div[@class=&quot;detail-product&quot;]/div[@class=&quot;d-flex flex-row name-box&quot;]/div[@class=&quot;delete-button&quot;]</value>
+      <webElementGuid>c87df234-b2f1-4188-853d-9ca97eeba980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>66f7ef78-044b-4c6d-8f23-893ad0038b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CRYSTALLINE 330ML - 330ML'])[1]/following::div[1]</value>
+      <webElementGuid>d19c374c-a1e4-4c1d-88e4-0a950fd37f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOBAT PANGAN'])[1]/following::div[8]</value>
+      <webElementGuid>376ee29f-f6ce-4223-b53b-b4bda28f54c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/3300g'])[1]/preceding::div[1]</value>
+      <webElementGuid>770cfcec-ba12-4184-8e58-5a979faea3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>cd581b03-f73a-492b-8d3d-5f7d73dfa53a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

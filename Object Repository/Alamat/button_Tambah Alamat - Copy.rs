@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Alamat - Copy</name>
+   <tag></tag>
+   <elementGuidId>4408dd98-b46f-4800-a835-f7ce55b26ed2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[2]/div[2]/div[1]/div/div[3]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.buttonComponent.primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fba7351f-4053-47c6-ad19-eda84d557ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained buttonComponent primary</value>
+      <webElementGuid>5ea0b4a9-1a47-488d-958c-94678f8ac834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f8ee66e4-bb99-4639-bcb6-188e0034a40c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>31e0c173-4650-42e6-81d2-31b28c54b97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Alamat</value>
+      <webElementGuid>79b880e2-c782-4635-a329-aad2f25db362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;SupplyChain&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;SCMModal&quot;]/div[@class=&quot;containerModal false&quot;]/div[@class=&quot;ModalFooter&quot;]/div[@class=&quot;FooterInputAddress&quot;]/div[@class=&quot;buttonContainer&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained buttonComponent primary&quot;]</value>
+      <webElementGuid>39298d7a-c2cc-4bc4-b1a5-aeff767e0678</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

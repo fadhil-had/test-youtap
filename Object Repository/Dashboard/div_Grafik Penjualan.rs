@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grafik Penjualan</name>
+   <tag></tag>
+   <elementGuidId>bcf9d55c-53f1-4f9e-b294-b32bbdcc4b6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8712cb46-6beb-49c7-b38f-4754be844483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-card</value>
+      <webElementGuid>84aa50d9-a03b-478f-b67b-45e2664676da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grafik Penjualan‌‌‌‌‌‌</value>
+      <webElementGuid>9479867a-7138-4eba-87a9-b2033422d594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]</value>
+      <webElementGuid>4fd84c8b-0e13-442f-b17b-9f143bc2ee7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div[3]</value>
+      <webElementGuid>ddf5cf9f-a861-4bde-9b4e-bb67df82799c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>9685e959-7464-4591-a164-ad26d5cc5c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Grafik Penjualan‌‌‌‌‌‌' or . = 'Grafik Penjualan‌‌‌‌‌‌')]</value>
+      <webElementGuid>b8318919-eed5-4fc1-b297-a2776a4f0e18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

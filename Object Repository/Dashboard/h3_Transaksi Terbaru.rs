@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Transaksi Terbaru</name>
+   <tag></tag>
+   <elementGuidId>28c61b3f-42b0-4a58-bae1-fa5d61add037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='left']/div[2]/div/h3)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7c8cdd4f-0dab-4195-b7c3-c771a2d532d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>a23be552-81b6-4795-890b-c626a32a1a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaksi Terbaru</value>
+      <webElementGuid>46cbb21e-e0f5-4d7f-ad3f-0b048c169ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]/div[@class=&quot;div-card-subtitle&quot;]/h3[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>ba4a4c76-5f92-4563-bbda-be8d0eaeb2c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='left']/div[2]/div/h3)[2]</value>
+      <webElementGuid>90ec2252-76a8-4241-9b62-fc18a0b9eaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[24]/following::h3[1]</value>
+      <webElementGuid>b4c51ea2-241e-42d4-a7f7-a0b1325f92ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[23]/following::h3[1]</value>
+      <webElementGuid>a2bcbaac-d0ab-44ba-b3ee-d717f36b8e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[25]/preceding::h3[1]</value>
+      <webElementGuid>bcfb1ad2-34c8-4a97-a037-137cca7e53a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[26]/preceding::h3[1]</value>
+      <webElementGuid>e4b64249-ffea-4274-addc-395ad5b2c801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaksi Terbaru']/parent::*</value>
+      <webElementGuid>8ac6ecbb-adc4-4445-a3c0-0d6631b02cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/h3</value>
+      <webElementGuid>61930c83-5f79-41e8-9b6d-fe7636a55032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Transaksi Terbaru' or . = 'Transaksi Terbaru')]</value>
+      <webElementGuid>b42f9619-f185-407e-a0d9-7b698f903fe6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

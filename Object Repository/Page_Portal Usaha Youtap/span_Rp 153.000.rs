@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rp 153.000</name>
+   <tag></tag>
+   <elementGuidId>fe8a8158-62d0-46a6-99aa-01c716ddf5c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.subtotal-price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>73f9eb65-453c-4d9f-aa01-e2208c51f491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtotal-price</value>
+      <webElementGuid>1630e66d-e24a-4b1b-bc35-fe1ef8f8f551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 153.000</value>
+      <webElementGuid>862636f7-528a-43ae-a703-177da81c561b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Cart&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;cart-container&quot;]/div[@class=&quot;CartSupplier&quot;]/div[@class=&quot;container-box d-flex flex-row&quot;]/div[@class=&quot;detail-cart&quot;]/div[@class=&quot;containerSubtotal&quot;]/div[@class=&quot;subtotal-box d-flex flex-row&quot;]/span[@class=&quot;subtotal-price&quot;]</value>
+      <webElementGuid>9ef9a057-f1be-4878-a2d4-ea50fea13b27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div[2]/div[2]/div/span[2]</value>
+      <webElementGuid>0f6321b4-c2d4-4fea-9c63-69afa072bd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/following::span[1]</value>
+      <webElementGuid>1b8be1ac-995d-497f-81b8-2e57d433d7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[3]</value>
+      <webElementGuid>d74fcf37-956b-48ab-92eb-b456d17ca389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih jasa pengiriman'])[1]/preceding::span[1]</value>
+      <webElementGuid>dfd17e5b-dd1c-4cf2-81ca-bbfc3eec1e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurir Toko'])[1]/preceding::span[1]</value>
+      <webElementGuid>2d434689-9ed1-43da-8808-d695aab6d562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]</value>
+      <webElementGuid>c74a71b3-a958-4484-9173-469049615507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rp 153.000' or . = 'Rp 153.000')]</value>
+      <webElementGuid>71762eda-fd79-42b0-9ba4-d5587afe54c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

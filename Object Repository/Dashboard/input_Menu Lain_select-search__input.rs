@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Menu Lain_select-search__input</name>
+   <tag></tag>
+   <elementGuidId>42607c65-1e57-4e21-90ae-aea19d9dea39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.select-search__input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Hari ini']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0ce68e68-76f9-4f6d-9a7c-7f20e993f142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b1235b38-8bb5-4293-968a-9827048eb6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>600c63aa-fb07-4d60-b0b3-3f2133d35269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-search__input</value>
+      <webElementGuid>8e8632c0-3fad-44f4-89bc-a9798b20bab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Hari ini</value>
+      <webElementGuid>ceab60a5-9a6e-4af5-bc57-2ed6306ae075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xxl-12 col-lg-12&quot;]/div[@class=&quot;period-button&quot;]/div[@class=&quot;select-search has-focus&quot;]/div[@class=&quot;select-search__value&quot;]/input[@class=&quot;select-search__input&quot;]</value>
+      <webElementGuid>920956eb-63b4-4c65-8cba-35f743748ccc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Hari ini']</value>
+      <webElementGuid>1f68c0db-d5d0-4fd6-9a8d-4d54efa4618f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/input</value>
+      <webElementGuid>1dcc4bf5-ba09-44bd-b1ee-2e2682c6712f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>4555c94f-e5ee-4db3-ae15-b3bc4c3684b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

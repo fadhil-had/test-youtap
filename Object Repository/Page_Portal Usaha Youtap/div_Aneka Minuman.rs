@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Aneka Minuman</name>
+   <tag></tag>
+   <elementGuidId>ab9155ab-cb38-4d32-83ab-c172b613c099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[4]/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.category</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9066cc9d-774d-444d-ab1d-71aaa6b5aa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>category</value>
+      <webElementGuid>fd46ad6e-1eac-45b1-90c0-d4487d94df99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aneka Minuman</value>
+      <webElementGuid>7947e4a2-a6ac-4472-b468-0919364c7991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;SupplyChain&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;wrapper container&quot;]/div[@class=&quot;horizontal-scroll&quot;]/div[@class=&quot;category-container indiana-scroll-container indiana-scroll-container--hide-scrollbars&quot;]/a[1]/div[@class=&quot;category&quot;]</value>
+      <webElementGuid>456d3a36-22c9-401e-94a1-d3acd98ae5fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[4]/div/div/a/div</value>
+      <webElementGuid>100ca6cf-93d2-4ea7-9626-535d111eb4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Rumah'])[1]/following::div[49]</value>
+      <webElementGuid>7f4b7dbb-e24c-437f-9ace-3c229572ef57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dikirim ke:'])[1]/following::div[49]</value>
+      <webElementGuid>f64f3f5e-0765-4d2a-889c-3b051cfbe0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier di daerahmu'])[1]/preceding::div[20]</value>
+      <webElementGuid>cfa5c534-976a-49bd-a9cf-b338ecb89916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat semua'])[1]/preceding::div[22]</value>
+      <webElementGuid>a4b83f96-8949-439b-a8e0-ac114d341f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/div</value>
+      <webElementGuid>73dc01ad-2369-42a3-b65e-ff68bf7104e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Aneka Minuman' or . = 'Aneka Minuman')]</value>
+      <webElementGuid>e0eb9e40-e80a-44d2-a502-44b27d6b757f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

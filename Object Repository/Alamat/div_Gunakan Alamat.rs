@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gunakan Alamat</name>
+   <tag></tag>
+   <elementGuidId>70999509-a60c-428e-8bca-7ce9cddf7642</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.buttonSave</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outside']/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93330c3b-e3ba-4b86-bd1f-df1329654232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttonSave</value>
+      <webElementGuid>cbfccef0-84df-4fe8-9c47-0ab543f7a037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gunakan Alamat</value>
+      <webElementGuid>b08a25a6-5c6e-44a7-9edc-303e27e110e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outside&quot;)/div[@class=&quot;modalContainer&quot;]/div[@class=&quot;footerBox&quot;]/div[@class=&quot;ListAddressFooter&quot;]/div[@class=&quot;buttonSave&quot;]</value>
+      <webElementGuid>96e50c8f-6db3-40e3-9122-485c3db4bd7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outside']/div/div[3]/div/div</value>
+      <webElementGuid>9f44c55b-681c-4a34-9842-786819009027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Alamat'])[1]/following::div[3]</value>
+      <webElementGuid>b73c2e97-fb22-424b-8275-7fe0d8b28361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duri, BALAI RAJA, BENGKALIS, PINGGIR, RIAU, 28784'])[1]/following::div[5]</value>
+      <webElementGuid>6f820657-b9ef-4ae8-b8d7-671b56bb163f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dikirim ke:'])[1]/preceding::div[6]</value>
+      <webElementGuid>127936e7-1ec7-4dd3-8965-df94b2286076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Rumah'])[1]/preceding::div[6]</value>
+      <webElementGuid>8db75452-568c-44a3-96d0-4bd2b3a5cbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan Alamat']/parent::*</value>
+      <webElementGuid>42fefee6-7360-4ee1-9d24-eba163f23c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>32836ecc-7099-4b1c-9cad-89339e20d5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gunakan Alamat' or . = 'Gunakan Alamat')]</value>
+      <webElementGuid>8a3b057b-81c0-4fc5-890c-182cd547b18c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

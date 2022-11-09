@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Grafik Penjualan</name>
+   <tag></tag>
+   <elementGuidId>a802097a-dbf4-4dcd-9619-fbe2e15db10e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div[3]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a215d2a0-ebd1-4d68-b15a-1409266b2464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>b279c8fa-0183-422c-8e97-4ba0543283a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grafik Penjualan</value>
+      <webElementGuid>3f3fcb1e-750f-46e1-9008-46d9400dfcf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]/div[@class=&quot;div-card-subtitle&quot;]/h3[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>12699c83-d359-4380-9277-c45479fe313d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div[3]/div/h3</value>
+      <webElementGuid>d508a5c7-3d4e-427b-9236-bd877b8996d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[13]/preceding::h3[1]</value>
+      <webElementGuid>57fcef63-8f5d-47d9-9840-6155c67edaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‌'])[14]/preceding::h3[1]</value>
+      <webElementGuid>e9c45a53-f1dd-40ba-829f-a84b6debd69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Grafik Penjualan']/parent::*</value>
+      <webElementGuid>ed177c68-9504-40e7-a44e-3c0a9294e1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h3</value>
+      <webElementGuid>c66b346b-533b-45e2-8683-9a5779cda92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Grafik Penjualan' or . = 'Grafik Penjualan')]</value>
+      <webElementGuid>33c3c1f6-1e74-48d8-b6ce-e46fd4a81596</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

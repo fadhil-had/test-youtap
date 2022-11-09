@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Lokasi</name>
+   <tag></tag>
+   <elementGuidId>9982094c-f15a-4943-8085-b0d3478ee8cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.openMapsBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div[2]/div[2]/div[1]/div/div[2]/div/div[7]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7687e15-98d9-43db-a9a6-9c50c4f192d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>openMapsBtn</value>
+      <webElementGuid>e9825af5-8366-4013-a547-61fe014a1b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Lokasi</value>
+      <webElementGuid>595c433d-89a8-4089-863a-7ccb218ac74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;SupplyChain&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;SCMModal&quot;]/div[@class=&quot;containerModal false&quot;]/div[@class=&quot;ModalBody&quot;]/div[@class=&quot;InputAddress&quot;]/div[@class=&quot;LocationPin LocationPinRedBorder&quot;]/div[@class=&quot;openMapsBtn&quot;]</value>
+      <webElementGuid>faddb5b1-609e-47ef-b249-141712439dd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div[2]/div/div[7]/div[2]</value>
+      <webElementGuid>1369e7f1-4e3e-461b-be2b-a7ecd56e0d0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pin lokasimu dalam peta'])[1]/following::div[1]</value>
+      <webElementGuid>5c7e6fae-3509-4212-98b9-17060b9ca1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[6]/following::div[4]</value>
+      <webElementGuid>a2378654-7575-4752-ac3d-996b5befc133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>e046e67b-a991-476b-8603-ec34e8e98a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]</value>
+      <webElementGuid>cd479267-594a-4726-9c65-a8424abe7c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Lokasi' or . = 'Pilih Lokasi')]</value>
+      <webElementGuid>92a4afe8-0ffc-411f-82ae-02c7d89cf8c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

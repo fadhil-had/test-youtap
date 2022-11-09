@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ringkasan Penjualans</name>
+   <tag></tag>
+   <elementGuidId>05036a69-0011-4047-bcdc-63cf4a5826d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.div-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b04e4724-f9c9-471d-9d75-46a6f590ae72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-card</value>
+      <webElementGuid>cc54234b-34c7-4dc7-bee9-4f0b9ce08485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ringkasan Penjualan‌‌‌‌‌‌Pendapatan Kotor Hari iniRp 00 TransaksiModal Hari iniRp 0Pendapatan BersihRp 0TunaiRp 00 TransaksiNon TunaiRp 00 TransaksiRp 0 (100%)vs periode sebelumnya0 (100%)vs transaksi sebelumnya</value>
+      <webElementGuid>07d6ae5d-6aef-4819-a4a2-7e19cf4e2a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]</value>
+      <webElementGuid>d8ff1b3a-62d2-4886-ad55-91526e581d7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div</value>
+      <webElementGuid>f482c7fc-3c9a-492b-8eae-a5f6e194abb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lain'])[1]/following::div[50]</value>
+      <webElementGuid>547264e6-aa83-4b25-bfde-d2cd7dd3070a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Produk'])[2]/following::div[52]</value>
+      <webElementGuid>142332fe-62c6-4482-8334-e78320a45823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div</value>
+      <webElementGuid>0ee853aa-effb-4991-8d4c-c0143f690cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ringkasan Penjualan‌‌‌‌‌‌Pendapatan Kotor Hari iniRp 00 TransaksiModal Hari iniRp 0Pendapatan BersihRp 0TunaiRp 00 TransaksiNon TunaiRp 00 TransaksiRp 0 (100%)vs periode sebelumnya0 (100%)vs transaksi sebelumnya' or . = 'Ringkasan Penjualan‌‌‌‌‌‌Pendapatan Kotor Hari iniRp 00 TransaksiModal Hari iniRp 0Pendapatan BersihRp 0TunaiRp 00 TransaksiNon TunaiRp 00 TransaksiRp 0 (100%)vs periode sebelumnya0 (100%)vs transaksi sebelumnya')]</value>
+      <webElementGuid>24360e07-4d36-47b4-a036-852d03cb6290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>88dd7c19-692c-4a8b-8d53-8ecca25ec414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='backdrop']/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.textUp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>399b8c99-aa1e-4161-ad15-c5527a2dbf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textUp</value>
+      <webElementGuid>0faf1374-48a7-4807-a3d5-d45b4e85a371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual Account</value>
+      <webElementGuid>e9861877-5c0a-4334-ba9b-7d51e5f074cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backdrop&quot;)/div[@class=&quot;paymentListCard d-flex flex-column&quot;]/div[@class=&quot;header d-flex flex-row&quot;]/div[@class=&quot;title d-flex flex-column&quot;]/span[@class=&quot;textUp&quot;]</value>
+      <webElementGuid>df0c146b-3073-4b45-95ab-d39391dbae15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='backdrop']/div/div/div/span</value>
+      <webElementGuid>4f6a950f-bd9a-43af-81b2-c811630993dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lain'])[1]/following::span[1]</value>
+      <webElementGuid>d16f3661-6ba9-42ca-8761-9d6cb4b0ac14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Produk'])[2]/following::span[1]</value>
+      <webElementGuid>5688e109-5af4-4f82-86ea-50f28401cea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesaikan Pembayaran dalam'])[1]/preceding::span[1]</value>
+      <webElementGuid>f759bd06-c7c4-4f34-80e5-d54865ee4fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas Akhir Pembayaran'])[1]/preceding::span[3]</value>
+      <webElementGuid>5cfc0f59-f10d-4ae7-a1e0-3cd95cfad184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Virtual Account']/parent::*</value>
+      <webElementGuid>8e1dc226-2b02-4519-acd2-4a0c0704f56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>4a51bd9e-5bb8-456a-9146-26db2f5bf00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Virtual Account' or . = 'Virtual Account')]</value>
+      <webElementGuid>fd5e8460-633e-4df6-a097-5e4d9c3b4b3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

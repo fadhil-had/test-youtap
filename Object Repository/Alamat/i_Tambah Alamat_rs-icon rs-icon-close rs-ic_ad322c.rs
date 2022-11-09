@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tambah Alamat_rs-icon rs-icon-close rs-ic_ad322c</name>
+   <tag></tag>
+   <elementGuidId>669c8b05-1db4-483c-a403-0e0b01460bda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.rs-icon.rs-icon-close.rs-icon-size-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='outside']/div/div/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7bb36b91-83c3-406b-909f-dfd567ab2cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rs-icon rs-icon-close rs-icon-size-lg</value>
+      <webElementGuid>5fefd104-7773-464e-9440-a542923f5077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;outside&quot;)/div[@class=&quot;modalContainer&quot;]/div[@class=&quot;headerBox&quot;]/div[@class=&quot;ListAddressHeader&quot;]/div[@class=&quot;titleContainer&quot;]/div[@class=&quot;actionBox&quot;]/div[1]/i[@class=&quot;rs-icon rs-icon-close rs-icon-size-lg&quot;]</value>
+      <webElementGuid>ad1fa9dc-9f34-4f71-b33c-8878c5621586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='outside']/div/div/div/div/div/div/i</value>
+      <webElementGuid>3b5e5d1a-f824-4799-bec3-b96555f3d2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/i</value>
+      <webElementGuid>87bf40e6-97a1-4295-85b6-0e436b68a5f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

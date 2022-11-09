@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Email_redIcon rs-icon rs-icon-eye rs-icon_c115a4</name>
+   <tag></tag>
+   <elementGuidId>10f5e0a8-f1e8-4f31-84f0-9cfa5fc81417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.redIcon.rs-icon.rs-icon-eye.rs-icon-size-2x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-basic']/div/div/div/div[2]/div/div/form/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c525c1ab-ecf6-4b24-882b-540af47c3975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>redIcon rs-icon rs-icon-eye rs-icon-size-2x</value>
+      <webElementGuid>dbc88176-36f6-4c9d-aeda-88a59d912bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-basic&quot;)/div[@class=&quot;page-login-v2 layout-full&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-login-main animation-slide-right animation-duration-1&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;col-section&quot;]/form[1]/div[@class=&quot;form-group parent-input&quot;]/i[@class=&quot;redIcon rs-icon rs-icon-eye rs-icon-size-2x&quot;]</value>
+      <webElementGuid>75b438d1-af8b-4158-a967-5a4d7c078d8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-basic']/div/div/div/div[2]/div/div/form/div[2]/i</value>
+      <webElementGuid>bc904f18-a344-4628-8740-3a1d6d22cb11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>da55d52c-a46e-4e6b-ad2b-044f4bffb319</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

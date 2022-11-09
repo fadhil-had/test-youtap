@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AquaAqua Botol 24x600mlRp 51.0003000g</name>
+   <tag></tag>
+   <elementGuidId>87446b8e-21db-406d-8abc-1450a58e7647</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ProductCard</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>811a55a4-2bb7-44b6-ba84-18bcbb8ed995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ProductCard</value>
+      <webElementGuid>e951cf18-babf-49e3-bc7d-bb01d3e5411a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AquaAqua Botol 24x600mlRp 51.000/3000g</value>
+      <webElementGuid>25a58ec4-4590-4d69-8857-0d399faaa5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ListProductContainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component listProduct&quot;]/div[@class=&quot;ProductCard&quot;]</value>
+      <webElementGuid>219d2393-2458-47a3-8298-0af08f501d24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>a5d8617f-36fc-441c-b19f-bda1242bc506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termurah'])[2]/following::div[3]</value>
+      <webElementGuid>4cf7e1a1-785d-4ea9-a7d1-f5b5c9d246f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termahal'])[1]/following::div[4]</value>
+      <webElementGuid>238293af-1256-4b1f-be5e-3443e157404a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>45a0b251-06c8-4ea1-b17d-f5137c5327db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AquaAqua Botol 24x600mlRp 51.000/3000g' or . = 'AquaAqua Botol 24x600mlRp 51.000/3000g')]</value>
+      <webElementGuid>53ca80e9-a3bd-4db9-b91b-6073caa90fd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

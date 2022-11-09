@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pembayaran belum berhasil</name>
+   <tag></tag>
+   <elementGuidId>1e9eb916-f22b-41a4-9530-6085875abf18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='backdrop']/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.textWarning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>edfc4cdf-a183-4dbb-8562-099d4bed4643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textWarning</value>
+      <webElementGuid>940b7c18-de57-4cf1-a664-cb4064bcda4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembayaran belum berhasil</value>
+      <webElementGuid>de9e4b1f-0f7b-420f-9451-e99de526b4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backdrop&quot;)/div[@class=&quot;paymentListCard d-flex flex-column&quot;]/div[@class=&quot;HeaderPaymentVA&quot;]/div[@class=&quot;redContainer&quot;]/span[@class=&quot;textWarning&quot;]</value>
+      <webElementGuid>c88a3b3d-85cf-44e5-90f1-c4531ed4f2ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='backdrop']/div/div[2]/div/span[2]</value>
+      <webElementGuid>da1daba0-f4c5-4226-98e4-da0495dbc371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::span[2]</value>
+      <webElementGuid>3f1d78be-48a5-4a7a-9962-dc9e53a57645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lain'])[1]/following::span[3]</value>
+      <webElementGuid>e59ed152-63c4-49d2-8721-8a6ed2b493c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesaikan Pembayaran dalam'])[1]/preceding::span[1]</value>
+      <webElementGuid>13aaa6aa-3dc1-4aac-9014-9bfd51379b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas Akhir Pembayaran'])[1]/preceding::span[3]</value>
+      <webElementGuid>e7b09564-bbc4-4270-b015-545e2e50d198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembayaran belum berhasil']/parent::*</value>
+      <webElementGuid>5ed07f0f-c76a-475c-8043-8b7ce7082f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b9909f55-f7b6-45db-ad1e-cbd6c320093c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pembayaran belum berhasil' or . = 'Pembayaran belum berhasil')]</value>
+      <webElementGuid>dee39389-0ffe-4003-b79a-69b2b1c3523d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

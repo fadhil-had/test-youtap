@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kejar Target</name>
+   <tag></tag>
+   <elementGuidId>f8f052f8-c539-447f-9861-73c5d827b2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdc4c4f8-af73-4e81-b4c8-02a7db591ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>div-card</value>
+      <webElementGuid>3a94ac07-2525-4533-979a-33375cb3f9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kejar Target‌‌‌‌‌‌Rp 0 (0%)Rp 00 % Target (Penjualan Kemarin)Rp 00 jumlah  tersisa di hari ini.Rp 0target penjualan per  untuk mencapai target Hari ini</value>
+      <webElementGuid>8e83d3a7-0554-44c4-af21-5ee7d08dd182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;overview-main-container&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@id=&quot;left&quot;]/div[@class=&quot;div-card&quot;]</value>
+      <webElementGuid>c243589f-8a1b-408d-b079-a86b17451ace</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div[2]</value>
+      <webElementGuid>fd70b689-6653-4994-99d6-5881ed2d105c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vs transaksi sebelumnya'])[1]/following::div[1]</value>
+      <webElementGuid>e883f43c-7596-493b-a278-5db6224337e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(100%)'])[1]/following::div[2]</value>
+      <webElementGuid>e22eec0b-3e89-4ca6-8c75-335e18b5da4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>9a8882e2-45a3-42e8-af52-9ef0d6f42190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kejar Target‌‌‌‌‌‌Rp 0 (0%)Rp 00 % Target (Penjualan Kemarin)Rp 00 jumlah  tersisa di hari ini.Rp 0target penjualan per  untuk mencapai target Hari ini' or . = 'Kejar Target‌‌‌‌‌‌Rp 0 (0%)Rp 00 % Target (Penjualan Kemarin)Rp 00 jumlah  tersisa di hari ini.Rp 0target penjualan per  untuk mencapai target Hari ini')]</value>
+      <webElementGuid>e0005790-5de2-42c5-a4b3-257e4eadb04f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

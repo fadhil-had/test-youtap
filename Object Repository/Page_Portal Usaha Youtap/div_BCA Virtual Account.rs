@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BCA Virtual Account</name>
+   <tag></tag>
+   <elementGuidId>b3968b50-6562-4db8-bbe7-04db6ff60164</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='backdrop']/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.paymentContent.d-flex.d-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90181c43-1204-4cd1-a5a7-cec6a65ba4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paymentContent d-flex d-row</value>
+      <webElementGuid>c020ee1a-6404-40b5-acac-18afaacfc9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BCA Virtual Account</value>
+      <webElementGuid>e59bde03-5ecf-426d-877c-ad69f9c3b43a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backdrop&quot;)/div[@class=&quot;paymentListCard d-flex flex-column&quot;]/div[@class=&quot;paymentBody d-flex flex-column&quot;]/div[@class=&quot;paymentCard d-flex flex-column&quot;]/div[@class=&quot;paymentContent d-flex d-row&quot;]</value>
+      <webElementGuid>0ae5e86d-6fae-4d9f-8f6f-e8ed11bf83ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='backdrop']/div/div[2]/div/div</value>
+      <webElementGuid>140abe4d-4ca5-42f2-bde8-c3d0f04ef80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::div[1]</value>
+      <webElementGuid>02fe2aa1-9e2e-4615-9a6d-6fd0b5049f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih metode pembayaran yang kamu inginkan'])[1]/following::div[3]</value>
+      <webElementGuid>d795ac66-65b5-4a60-ad35-28fcd2702b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiri Bill Payment'])[1]/preceding::div[2]</value>
+      <webElementGuid>96a5d25a-9c62-4fdf-b185-b8536a6bb741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>f779dfd8-7165-4736-ba5c-2dafcce9d882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BCA Virtual Account' or . = 'BCA Virtual Account')]</value>
+      <webElementGuid>dad7f9c9-bcdd-4890-ba98-964f07e1911c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CRYSTALLINE 330ML330MLRp 2.4003300g</name>
+   <tag></tag>
+   <elementGuidId>37febfbd-2a15-4b25-80ca-afba74a679fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>18eda9a5-fcb3-4b31-901c-eabf7c115da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ProductCard</value>
+      <webElementGuid>e17e33b4-93ca-4461-8984-685597376b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CRYSTALLINE 330ML330MLRp 2.400/3300g</value>
+      <webElementGuid>5c2e06b6-1ce6-417a-9dc8-390a137a9ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ListProductContainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;ProductByCategory&quot;]/div[@class=&quot;horizontal-scroll indiana-scroll-container indiana-scroll-container--hide-scrollbars&quot;]/div[1]/div[2]/div[@class=&quot;ProductCard&quot;]</value>
+      <webElementGuid>c1e771d9-df64-4ebc-bb0f-6baf15766502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div[3]/div/div[2]/div</value>
+      <webElementGuid>f573cbc2-6307-487f-b056-bcf7eddb0887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/1000g'])[1]/following::div[2]</value>
+      <webElementGuid>71ccf51d-d8a3-4a80-af61-60f127da6e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>2dc0fa42-9633-4fb1-9984-ae0a04a2f6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CRYSTALLINE 330ML330MLRp 2.400/3300g' or . = 'CRYSTALLINE 330ML330MLRp 2.400/3300g')]</value>
+      <webElementGuid>fc3f3270-7ad0-4c05-b75e-0bd63828642c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

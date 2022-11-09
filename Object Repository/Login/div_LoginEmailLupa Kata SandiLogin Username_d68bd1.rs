@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginEmailLupa Kata SandiLogin Username_d68bd1</name>
+   <tag></tag>
+   <elementGuidId>031a490f-26cd-4975-8a8d-907cbbcbce8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-basic']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca5f551c-294a-41bf-9bdd-835c4cee61c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-login-main animation-slide-right animation-duration-1 </value>
+      <webElementGuid>3d9e5e0f-a6e3-4e41-8731-050785638710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginEmailLupa Kata Sandi?Login Username atau Password tidak sesuai</value>
+      <webElementGuid>d26215ba-5b20-41c9-8c15-32c4df9f815d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-basic&quot;)/div[@class=&quot;page-login-v2 layout-full&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-login-main animation-slide-right animation-duration-1&quot;]</value>
+      <webElementGuid>993295f9-5b07-40c7-9104-93fb127071af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2777ed9d-f8ac-4a15-a425-864c7d9a5cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-login-main animation-slide-right animation-duration-1 </value>
+      <webElementGuid>70d9a012-42d9-4628-8362-1d09b0d87ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginEmailLupa Kata Sandi?Login Username atau Password tidak sesuai</value>
+      <webElementGuid>2d54f91c-5ed9-40b4-b7b3-0fa12be37a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-basic&quot;)/div[@class=&quot;page-login-v2 layout-full&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-login-main animation-slide-right animation-duration-1&quot;]</value>
+      <webElementGuid>b6551378-ea62-4f33-af01-729d17d8ffd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-basic']/div/div/div/div[2]</value>
+      <webElementGuid>daeb89bf-2d99-45cb-b5da-10a21e57c686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portal Usaha Youtap'])[2]/following::div[1]</value>
+      <webElementGuid>3f424bc6-fc83-41d6-94c2-3cc51b93fd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]</value>
+      <webElementGuid>8d74b243-0e8c-469b-bbb2-dc623b9d425a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginEmailLupa Kata Sandi?Login Username atau Password tidak sesuai' or . = 'LoginEmailLupa Kata Sandi?Login Username atau Password tidak sesuai')]</value>
+      <webElementGuid>3e14cff9-83f4-4894-9062-0825c55ddeac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

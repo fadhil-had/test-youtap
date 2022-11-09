@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hasil Pencarian Test</name>
+   <tag></tag>
+   <elementGuidId>e88792d4-8d68-44d8-8278-7e8cda8ee29b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.searchLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d1adde0-40f1-4ef8-971d-6e533f0cf2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchLabel</value>
+      <webElementGuid>64de749f-4140-4213-b05b-83edece08ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasil Pencarian &quot;Test&quot;</value>
+      <webElementGuid>7eca4d96-8c13-42ac-80ed-721c3ee2395d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ListProductContainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;SearchProduct&quot;]/span[@class=&quot;searchLabel&quot;]</value>
+      <webElementGuid>0ff63775-c189-4607-9bfc-bb5ca7883629</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/span</value>
+      <webElementGuid>d2b2c1b6-223e-42fb-a694-b77d448af279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dikirim Ke:'])[1]/following::span[2]</value>
+      <webElementGuid>fd79777e-93b3-4cdb-a180-fd11ccfa163b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Lain'])[1]/following::span[3]</value>
+      <webElementGuid>70932908-3741-4765-a463-fa3a7ff7b950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termurah'])[1]/preceding::span[1]</value>
+      <webElementGuid>7d9ea5cb-72b7-4932-b5aa-84981a7b2b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termahal'])[1]/preceding::span[1]</value>
+      <webElementGuid>2d5727dc-ebb4-474b-a164-ffdf1c9a0a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hasil Pencarian &quot;']/parent::*</value>
+      <webElementGuid>183e5996-d255-4215-ba4b-578194d91027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>091f6503-dc5d-4fdc-ba36-56a8845513f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hasil Pencarian &quot;Test&quot;' or . = 'Hasil Pencarian &quot;Test&quot;')]</value>
+      <webElementGuid>faabf8cc-0c5c-44b9-adbe-6483e1123065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

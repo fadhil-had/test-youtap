@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Beri catatan untuk pesanan ini</name>
+   <tag></tag>
+   <elementGuidId>3aa7e030-ced4-4613-9d07-588d58887e9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.addNoteSpan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3db073f7-06a5-4661-b5a7-e7e0f2fc5082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addNoteSpan</value>
+      <webElementGuid>ac7f69e5-d36e-4fa3-ac0c-490de154a2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beri catatan untuk pesanan ini</value>
+      <webElementGuid>9b35980e-ea00-4192-ab06-73a5cb91f8f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Cart&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;cart-container&quot;]/div[@class=&quot;CartSupplier&quot;]/div[@class=&quot;container-box d-flex flex-row&quot;]/div[@class=&quot;detail-cart&quot;]/div[@class=&quot;containerNote&quot;]/span[@class=&quot;addNoteSpan&quot;]</value>
+      <webElementGuid>e0b139d1-42d0-4228-b95c-2bc9e996194b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15c774c8-45e1-4692-8345-834cb17db314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addNoteSpan</value>
+      <webElementGuid>bf453855-ed86-4e50-be89-9e0c9ac46ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beri catatan untuk pesanan ini</value>
+      <webElementGuid>37e65a5c-517a-4eb1-9979-4f957816f296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;Cart&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;container d-flex flex-column&quot;]/div[@class=&quot;cart-container&quot;]/div[@class=&quot;CartSupplier&quot;]/div[@class=&quot;container-box d-flex flex-row&quot;]/div[@class=&quot;detail-cart&quot;]/div[@class=&quot;containerNote&quot;]/span[@class=&quot;addNoteSpan&quot;]</value>
+      <webElementGuid>57e5bcd7-1412-4fbb-ab1f-1e7fe0146ec6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>5ed6a260-4492-43dc-8709-c8939eb9e8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='total'])[1]/following::span[2]</value>
+      <webElementGuid>81416458-ed43-4192-9680-eb4165f7fced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/preceding::span[1]</value>
+      <webElementGuid>dd605f17-b211-4662-9946-f77b730d2b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beri catatan untuk pesanan ini']/parent::*</value>
+      <webElementGuid>a17679b2-84fc-4b2c-9bab-fb6317818a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/span</value>
+      <webElementGuid>e81ea03b-3693-4ff4-9ea6-3bf6623dbf29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Beri catatan untuk pesanan ini' or . = 'Beri catatan untuk pesanan ini')]</value>
+      <webElementGuid>ec60b037-496d-4675-8346-f319cd754f4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

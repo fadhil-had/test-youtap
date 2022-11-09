@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username atau Password tidak sesuai</name>
+   <tag></tag>
+   <elementGuidId>14c0e2ba-ca1f-4479-ac8f-df8a51a92c73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-form-fail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-basic']/div/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65b685eb-d2d8-4793-8a80-dc936e6a9f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-form-fail</value>
+      <webElementGuid>29d4cab0-23a1-4da4-bfbd-99ab8f94ee68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username atau Password tidak sesuai</value>
+      <webElementGuid>ecd90c01-4196-49f7-ac90-12d85426cc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-basic&quot;)/div[@class=&quot;page-login-v2 layout-full&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-login-main animation-slide-right animation-duration-1&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;font-helve&quot;]/div[@class=&quot;w-form-fail&quot;]</value>
+      <webElementGuid>44dd602f-aa5b-47f3-8987-e8b647f70d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>433fd04c-73cc-415b-9366-1ce1cd708955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-form-fail</value>
+      <webElementGuid>8f9b52b4-6d93-4691-9ce1-85503565b428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username atau Password tidak sesuai</value>
+      <webElementGuid>b47c5ddc-0603-4372-aeb6-6ca8e5fa46f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-basic&quot;)/div[@class=&quot;page-login-v2 layout-full&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-login-main animation-slide-right animation-duration-1&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;font-helve&quot;]/div[@class=&quot;w-form-fail&quot;]</value>
+      <webElementGuid>ee6c1c35-f842-44c3-a4b5-bcd4094dc8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-basic']/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>affec841-f377-4bbd-bfe3-61b06323aa0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[2]</value>
+      <webElementGuid>92a2b065-0f40-47e1-83e3-adbce0fc6c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/following::div[2]</value>
+      <webElementGuid>68a6da34-242a-41b2-90eb-960b6c801a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username atau Password tidak sesuai']/parent::*</value>
+      <webElementGuid>ef815ada-089b-47af-bef8-43fa808f425c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>4e8909c8-c5a4-4d1f-91d5-2ff58c908c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username atau Password tidak sesuai' or . = 'Username atau Password tidak sesuai')]</value>
+      <webElementGuid>5e0fdb0a-43bd-42d7-9259-011c63421064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
