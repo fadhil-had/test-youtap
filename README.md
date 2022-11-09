@@ -15,7 +15,7 @@
 3. Buat project di local (Misal project A)
 4. Download seluruh file yang ada di github ini
 5. Buka folder hasil download dari Github
-6. Copy hanya bagian folder Script dan Test case
+6. Copy hanya bagian folder Script, Test case dan Object Repository
 7. Paste ke folder project Katalon (Project A)
 8. Buka Katalon dan buka Project A
 9. Pilih Test Case dan jalankan
